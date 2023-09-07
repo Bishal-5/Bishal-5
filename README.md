@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishal Naskar</h1>
-<h3 align="center">CSE Undergraduate. Learning C | Python | HTML | CSS</h3>
 
-- 🌱 I’m currently learning **C, Python, Web Development (HTML, CSS, JavaScript)**
+<h3 align="center">CSE Undergraduate. Learning C | Python | HTML | CSS</h3>
 
 - 📫 How to reach me **naskarbishal44@gmail.com**
 
