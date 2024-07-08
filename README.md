@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Naskar</h1>
 <h3 align="center">Passionate about Coding and Programming</h3>
 
-- 🌱 I’m currently learning **Web Development, Framework**
+- 🌱 I’m currently learning **Web Development, Data Science**
 
 - 📫 How to reach me **bishal.naskar115@gmail.com**
 
