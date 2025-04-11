@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bishal.naskar115@gmail.com**
 
-- ⚡ Fun fact **Version Control Is My Love Language**
+- ⚡ Fun fact **"Version Control Is My Love Language"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
